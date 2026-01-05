@@ -11,3 +11,10 @@ examples/flood/assets
 **/quint/_apalache-out/
 **/quint/out*/
 CLAUDE.md
+
+# Tags
+*.vi
+tags
+
+# AI context
+AGENTS.md
